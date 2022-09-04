@@ -1,0 +1,2 @@
+rootProject.name = "Wanyudo"
+include ':app'
